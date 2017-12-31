@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="project.uoda.exam:Web">
+    <output-path>$PROJECT_DIR$/out/artifacts/project_uoda_exam_Web</output-path>
+    <root id="archive" name="project.uoda.exam_Web.war">
+      <element id="artifact" artifact-name="project.uoda.exam:Web exploded" />
+    </root>
+  </artifact>
+</component>
